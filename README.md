@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
